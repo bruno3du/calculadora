@@ -1,0 +1,31 @@
+.btn {
+	background-color: #363736;
+	color: cornsilk;
+	font-size: 30px;
+	width: 85px;
+	height: 75px;
+	border: none;
+	margin-bottom: 1.5px;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.delete {
+	width: 30px;
+	height: 28px;
+}
+
+.btn:hover {
+	opacity: 0.8;
+}
+
+.greydark {
+	background-color: #272627;
+}
+
+.orange {
+	background-color: #de7f01;
+}
+
+.fontweight {
+	font-weight: 700;
+}
