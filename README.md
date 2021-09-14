@@ -15,3 +15,6 @@ Nesta calculadora, procurei validar ao máximo alguns quisitos como:
 
 
 Essas features foram algumas das quais lembrei, tentei me resguardar da maioria dos bugs possíveis e, transformando-o em uma calculadora operavel.
+
+
+Veja você mesmo, confira de perto: <a href="calculadorabruno.netlify.app">Calculadora</a>
